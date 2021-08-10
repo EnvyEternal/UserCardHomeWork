@@ -40,7 +40,7 @@ let r = Number(prompt("Enter R"));
 let k = r * r;
 let sum = (x*x + y*y);
 if(k>=sum){
-    alert("The point belongs to the circle")
+    alert("The poi2nt belongs to the circle")
 } else {
     alert("Dot does not belong to the circle")
 }
